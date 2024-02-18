@@ -13,6 +13,7 @@
 		ABDB7B052B8240630039DC02 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABDB7B032B8240630039DC02 /* Main.storyboard */; };
 		ABDB7B072B8240640039DC02 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = ABDB7B062B8240640039DC02 /* Assets.xcassets */; };
 		ABDB7B0A2B8240640039DC02 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = ABDB7B082B8240640039DC02 /* LaunchScreen.storyboard */; };
+		ABDB7B112B82409A0039DC02 /* harrypotter.mp4 in Resources */ = {isa = PBXBuildFile; fileRef = ABDB7B102B82409A0039DC02 /* harrypotter.mp4 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -23,6 +24,7 @@
 		ABDB7B042B8240630039DC02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		ABDB7B062B8240640039DC02 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		ABDB7B092B8240640039DC02 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		ABDB7B102B82409A0039DC02 /* harrypotter.mp4 */ = {isa = PBXFileReference; lastKnownFileType = file; path = harrypotter.mp4; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -55,6 +57,7 @@
 		ABDB7AFC2B8240630039DC02 /* MagicPaper */ = {
 			isa = PBXGroup;
 			children = (
+				ABDB7B102B82409A0039DC02 /* harrypotter.mp4 */,
 				ABDB7AFD2B8240630039DC02 /* AppDelegate.swift */,
 				ABDB7AFF2B8240630039DC02 /* art.scnassets */,
 				ABDB7B012B8240630039DC02 /* ViewController.swift */,
@@ -125,6 +128,7 @@
 			files = (
 				ABDB7B002B8240630039DC02 /* art.scnassets in Resources */,
 				ABDB7B0A2B8240640039DC02 /* LaunchScreen.storyboard in Resources */,
+				ABDB7B112B82409A0039DC02 /* harrypotter.mp4 in Resources */,
 				ABDB7B072B8240640039DC02 /* Assets.xcassets in Resources */,
 				ABDB7B052B8240630039DC02 /* Main.storyboard in Resources */,
 			);
